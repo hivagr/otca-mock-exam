@@ -74,3 +74,5 @@ Pull requests and suggestions are welcome! Feel free to submit new questions, im
 ## 📄 License
 
 This project is licensed under the MIT License.
+
+Some questions in this repository are adapted from [OpenTelemetry Certified Associate OTCA](https://gitlab.com/cncf-exams/opentelemetry-certified-associate-otca/)
