@@ -1,0 +1,20 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: otca-mock-exam
+  description: OpenTelemetry Certified Associate - Exam
+  annotations:
+    github.com/project-slug: 'hivagr/otca-mock-exam'
+    docker.com/repository: 'hiddevg/otca-mock-exam'
+  tags:
+    - java
+  links:
+    - url: http://localhost:3000
+      title: Mock - Exam
+      icon: dashboard
+      type: admin-dashboard
+spec:
+  type: website
+  lifecycle: production
+  owner: infra
+  system: education
